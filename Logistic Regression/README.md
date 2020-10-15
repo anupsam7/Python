@@ -1,1 +1,1 @@
-## Linear Regression tutorials
+## Logisitic Regression tutorials
